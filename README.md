@@ -4,6 +4,7 @@
 * have node and npm of recent versions installed
 
 ## steps
+* clone the repo
 * run 
 ```bash 
 npm install
